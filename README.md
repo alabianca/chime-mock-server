@@ -2,4 +2,4 @@
 npm install
 
 # Run
-AWS_PRIFLE=chime npm start
+AWS_PROIFLE=chime npm start
